@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig">
+    <option name="defaultUnitInitialized" value="true" />
+    <option name="reverseEngineeringLastDbConnectionId" value="d1b4f40b-2271-4db7-abec-aca428afb074" />
+    <option name="reLastEntityCreationPackage" value="src/main/java/ru/kata/spring/boot_security/demo" />
+  </component>
+</project>
